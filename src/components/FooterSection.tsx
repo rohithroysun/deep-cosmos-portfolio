@@ -82,7 +82,7 @@ const FooterSection = () => {
               </a>
             </div>
             <p className="text-muted-foreground text-sm mt-8">
-              © 2026 Inbanesan V. All rights reserved.
+              © 2026 ROHITH S. All rights reserved.
             </p>
           </motion.div>
         </div>

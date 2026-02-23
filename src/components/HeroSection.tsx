@@ -22,7 +22,7 @@ const HeroSection = () => {
             </p>
             <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-4">
               Hi, I'm{" "}
-              <span className="neon-text">Inbanesan V</span>
+              <span className="neon-text">ROHITH S</span>
             </h1>
             <h2 className="font-display text-xl md:text-2xl text-muted-foreground font-medium mb-6">
               Machine Learning Engineer &amp; Full-Stack Developer
@@ -50,7 +50,7 @@ const HeroSection = () => {
               <div className="absolute inset-0 scale-150 photo-glow animate-glow-pulse" />
               <div className="relative w-72 h-72 md:w-80 md:h-80 rounded-full glass-card neon-border flex items-center justify-center overflow-hidden">
                 <div className="w-full h-full bg-secondary/50 flex items-center justify-center">
-                  <span className="font-display text-6xl font-bold neon-text">IV</span>
+                  <span className="font-display text-6xl font-bold neon-text">RS</span>
                 </div>
               </div>
             </div>
