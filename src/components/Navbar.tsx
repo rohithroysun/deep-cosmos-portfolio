@@ -19,7 +19,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between px-6">
         <a href="#home" className="font-display text-xl font-bold neon-text">
-          IV
+          RS
         </a>
         <ul className="hidden md:flex items-center gap-8">
           {navItems.map((item) => (
